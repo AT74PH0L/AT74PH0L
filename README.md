@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=800&center=true&vCenter=true&duration=2000&pause=1000&color=64F700&width=435&lines=Hi%F0%9F%91%8B;I'm+a+3rd-year+Computer+Science+student;at+KMITL" alt="Typing SVG" /></a>
+</h1>
 
 ###
 
