@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B;I'm+a+3rd-year+Computer+Science;at+KMITL" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&size=30&color=01F700&pause=1000&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B;I'm+a+3rd-year+Computer+Science;at+KMITL" alt="Typing SVG" /></a>
 </h1>
 
 ## Contact
@@ -59,6 +59,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/1280px-Cisco_logo_blue_2016.svg.png" height="30" alt="cisco"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
 </div>
 
 ###
