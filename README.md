@@ -1,15 +1,17 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&size=30&color=01F700&pause=1000&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B;I'm+a+3rd-year+Computer+Science;at+KMITL" alt="Typing SVG" /></a>
 </h1>
-
+  
 <h1> Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> </h1>
+<img src='https://media3.giphy.com/media/lTLV2erK8vf1MIz4Rk/200w.gif?cid=6c09b952wdywslcjskyn83862fhpq5k9vhv79gsl57jhgxpr&ep=v1_gifs_search&rid=200w.gif&ct=g'  height='190' align="right">
+  <p float="center">
 
 I'm **Attaphol Yougpirom**, but you can call me **Aum**.  
 A **3rd-year Computer Science student**  
 at **King Mongkut's Institute of Technology Ladkrabang**.  
 
 💻 Passionate about Fullstack Development  
-🚀 Learning React, Vite, Unitest and other technologies  
+🚀 Learning React, Vite, Unitest and other technologies 
 
 ## 📨 Contact
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/MIST3R.AUM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0x4t7vph0l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/attaphol-youngpirom-214839347/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:attaphol.you@gmail.com) 
