@@ -75,6 +75,8 @@ at **King Mongkut's Institute of Technology Ladkrabang**.
   <img src="https://www.svgrepo.com/show/354521/vitejs.svg" height="30" alt="vite"  />
   <img width="12" />
   <img src="https://vitest.dev/logo-shadow.svg" height="30" alt="vitest"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/355152/oracle.svg" height="30" alt="oracle"  />
 </div>
 <br>
 
