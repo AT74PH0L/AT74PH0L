@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&size=30&color=01F700&pause=1000&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B;I'm+a+3rd-year+Computer+Science;at+KMITL" alt="Typing SVG" /></a>
 </h1>
   
-<h1> Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> </h1>
+
 <img src='https://media3.giphy.com/media/lTLV2erK8vf1MIz4Rk/200w.gif?cid=6c09b952wdywslcjskyn83862fhpq5k9vhv79gsl57jhgxpr&ep=v1_gifs_search&rid=200w.gif&ct=g'  height='180' align="right">
 
 I'm **Attaphol Yougpirom**, but you can call me **Aum**.  
