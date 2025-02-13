@@ -5,14 +5,8 @@
 ## Contact
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/MIST3R.AUM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0x4t7vph0l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/attaphol-youngpirom-214839347/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:attaphol.you@gmail.com) 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AT74PH0L&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AT74PH0L&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
 ###
-## Language and Tools
+## 🔧Language and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -68,10 +62,16 @@
   <img width="12" />
   <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" height="30" alt="packet tracer"  />
 </div>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AT74PH0L&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AT74PH0L&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
 
 ###
 
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/AT74PH0L/AT74PH0L/output/snake.svg" alt="Snake animation" />
 
