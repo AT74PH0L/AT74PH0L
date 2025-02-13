@@ -71,6 +71,10 @@ at **King Mongkut's Institute of Technology Ladkrabang**.
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="30" alt="post man"  />
   <img width="12" />
   <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" height="30" alt="packet tracer"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/354521/vitejs.svg" height="30" alt="vite"  />
+  <img width="12" />
+  <img src="https://vitest.dev/logo-shadow.svg" height="30" alt="vitest"  />
 </div>
 <br>
 
