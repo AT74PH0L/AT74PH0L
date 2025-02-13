@@ -63,6 +63,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="30" alt="post man"  />
+  <img width="12" />
+  <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" height="30" alt="packet tracer"  />
 </div>
 
 ###
