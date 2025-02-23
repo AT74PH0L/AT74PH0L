@@ -80,6 +80,8 @@ at **King Mongkut's Institute of Technology Ladkrabang**.
   <img src="https://www.svgrepo.com/show/355152/oracle.svg" height="30" alt="oracle"  />
   <img width="12" />
   <img src="https://pngimg.com/uploads/php/php_PNG43.png" height="30" alt="php"  />
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:1000/1*VTSKq5eIs3KyOyLYShI67Q.png" height="30" alt="php"  />
 </div>
 <br>
 
