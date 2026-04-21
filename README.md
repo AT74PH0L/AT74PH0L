@@ -7,7 +7,7 @@
 <img src='https://media3.giphy.com/media/lTLV2erK8vf1MIz4Rk/200w.gif?cid=6c09b952wdywslcjskyn83862fhpq5k9vhv79gsl57jhgxpr&ep=v1_gifs_search&rid=200w.gif&ct=g'  height='180' align="right">
 
 I'm **Attaphol Yougpirom**, but you can call me **Aum**.  
-A **3rd-year Computer Science student**  
+A **4rd-year Computer Science student**  
 at **King Mongkut's Institute of Technology Ladkrabang**.  
 
 💻 Passionate about Fullstack Development  
